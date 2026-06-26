@@ -17,3 +17,6 @@ It needs to be replaced with the corresponding test file.
 
 4. Model training:
 python MTLION_main.py
+
+
+Want to use the prepared data? Download here! (PDB: https://huggingface.co/datasets/ZHAOWEII155/MTL/resolve/main/All_pdb.tar.gz?download=true， SDF: https://huggingface.co/datasets/ZHAOWEII155/MTL/resolve/main/All_SDF.rar?download=true)
