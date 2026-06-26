@@ -23,7 +23,7 @@ os.makedirs(RESULT_DIR, exist_ok=True)
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# ABB 到 volume group 的映射
+
 ABB_TO_GROUP = {
     'KCa_CNG': 'tiny_volume',
     'CaCC': 'tiny_volume',
